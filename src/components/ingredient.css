@@ -1,0 +1,13 @@
+.ingredient {
+    display: flex;
+    flex-direction: row;
+}
+
+.space {
+    width: 250px;
+}
+
+.li {
+    border: 2px solid transparent;
+    border-radius: 20px;
+}
